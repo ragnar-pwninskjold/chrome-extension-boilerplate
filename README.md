@@ -1,6 +1,12 @@
 
 # Using as a Chrome Extension
 
+## Installation
+
+1. **Clone**: Run `git clone https://github.com/seankochal/chrome-extension-react.git` to clone the repository.
+2. **Navigate**: Change directory to the cloned repository using `cd chrome-extension-react`.
+3. **Install**: Run `npm install` to install the dependencies.
+
 ## Development
 
 1. **Run**: Run `npm run start` to launch the extension in development mode on your local machine. Navigate to `http://localhost:3000` to see your React app running.

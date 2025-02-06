@@ -1,0 +1,25 @@
+{
+  "name": "React Chrome Extension",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "description": "A React-based boilerplate for building Chrome extensions",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "icons": {
+    "16": "favicon.ico",
+    "32": "favicon.ico",
+    "48": "favicon.ico",
+    "128": "logo512.png"
+  }
+}

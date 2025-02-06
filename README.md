@@ -3,7 +3,7 @@
 
 ## Installation
 
-1. **Clone**: Run `git clone https://github.com/seankochal/chrome-extension-react.git` to clone the repository.
+1. **Clone**: Run `git clone https://github.com/ragnar-pwninskjold/chrome-extension-react.git` to clone the repository.
 2. **Navigate**: Change directory to the cloned repository using `cd chrome-extension-react`.
 3. **Install**: Run `npm install` to install the dependencies.
 
